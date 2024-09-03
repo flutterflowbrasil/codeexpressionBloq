@@ -1,0 +1,1 @@
+listaBloqueio.any((word) => var1.toLowerCase().contains(word.toLowerCase()))
